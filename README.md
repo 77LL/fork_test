@@ -2,5 +2,5 @@
 * githubのfork, pull requestの練習用
 
 ## 参考ページ
-https://qiita.com/tsuruokax/items/aa720561ee4f078bda60
-
+* https://qiita.com/tsuruokax/items/aa720561ee4f078bda60
+* https://numb86-tech.hatenablog.com/entry/2017/02/25/143908
