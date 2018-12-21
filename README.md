@@ -1,2 +1,2 @@
 # fork_test
-githubのfork, pull requestの練習用
+* githubのfork, pull requestの練習用
