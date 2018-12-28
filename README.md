@@ -11,10 +11,18 @@
 1. topicを無理やりoriginにpush, push -f
 1. GitHubのoriginページからupstream側にpull requestを送る
 
+## 手順 マージ側
+1. pull requestをくれたユーザをリモートとして追加
+1. ローカルでブランチを切って試す
+1. 不備がなければmasterにマージしてpush
+1. リモートの登録を解除， remote rm
 
 ## 参考ページ
 * https://qiita.com/tsuruokax/items/aa720561ee4f078bda60
 * https://numb86-tech.hatenablog.com/entry/2017/02/25/143908
+
+* http://5509.hatenablog.com/entry/2012/03/13/164234
+* https://qiita.com/ngtkk/items/05097d127db6a415a7d8
 
 # 複数githubアカウントを使う方法
 * sshが同じキーならそれが登録されているアカウントでログインしたことになる
